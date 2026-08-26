@@ -7,6 +7,8 @@ curso muito bom
 top demais
 ## Fluxo de trabalho git local
 
+Aprendendo github
+
 1. git checkout -b <nova-branch>
 2. cria ou atualiza arquivos
 3. git status
