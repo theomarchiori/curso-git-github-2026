@@ -3,6 +3,8 @@
 Um curso para iniciantes aprenderem a trabalhar com versionamento
 de código e repositórios remotos com GitHub.
 
+curso muito bom
+top demais
 ## Fluxo de trabalho git local
 
 1. git checkout -b <nova-branch>
